@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 from apscheduler.schedulers.background import BackgroundScheduler
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = "8081585127:AAEZ0QyleeUQY4GI8_rPsAMEmYHt6SmZYp4С"
+BOT_TOKEN = "8081585127:AAEZ0QyleeUQY4GI8_rPsAMEmYHt6SmZYp4"
 DATA_FILE = "data.json"
 DEFAULT_BUDGET = 500
 
